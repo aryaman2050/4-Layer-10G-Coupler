@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.0*%
+%TF.CreationDate,2026-07-14T19:52:48+05:30*%
+%TF.ProjectId,RJ45 connector 4 layer,524a3435-2063-46f6-9e6e-6563746f7220,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.0) date 2026-07-14 19:52:48*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X119750000Y-85600000D02*
+X185750000Y-85600000D01*
+X185750000Y-107600000D01*
+X119750000Y-107600000D01*
+X119750000Y-85600000D01*
+M02*
